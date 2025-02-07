@@ -7,7 +7,12 @@ Se recomienda en el curso la página principal de wikipedia https://es.wikipedia
 1. He seleccionado varios elementos de la página:
 
 - Título
+  
+    ![Descripción de la imagen](images/Captura1_titulo.JPG)
+  
 - Logo
+
+    ![Descripción de la imagen](images/Captura2_logo.jpg)
 
   
 
