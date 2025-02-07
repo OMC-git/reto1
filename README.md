@@ -1,5 +1,7 @@
 # reto1
-Reto 1 del curso fundae para lenguajes de programación.
+Reto 1 del curso fundae para lenguajes de programación.</br>
+
+``` Pruebas hechas con navegador Edge, recorte de windows y paint ```
 
 Selecionar de elemento.</br>
 Se recomienda en el curso la página principal de wikipedia https://es.wikipedia.org/wiki/Wikipedia:Portada
