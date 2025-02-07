@@ -14,6 +14,10 @@ Se recomienda en el curso la página principal de wikipedia https://es.wikipedia
 
     ![Descripción de la imagen](images/Captura2_logo.jpg)
 
+2. Análisis del HTML:
+He identificado las partes basica(etiquetas) del documento HTML: html, header y body.
+Dentro del header, las principales etiquetas son:
+- 
   
 
 
