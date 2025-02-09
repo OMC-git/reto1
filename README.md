@@ -18,7 +18,7 @@ He seleccionado varios elementos de la página:
 2. **Análisis del HTML:**</br>
 He identificado las partes basica(etiquetas) del documento HTML: html, header y body.</br>
 Dentro del header, las principales etiquetas son:
-- 
+    - opcion 1
   
 
 
