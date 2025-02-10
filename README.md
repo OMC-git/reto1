@@ -4,10 +4,10 @@ Reto 1 del curso fundae para lenguajes de programación.</br>
 ``` Pruebas hechas con el navegador Edge, recorte de windows y paint ```
 
 <a name="resumen">Retos</a>:</br>
-<a name="reto1"></a> - Reto 1: Selección de elemento.</br>
-- Reto 2: [Analisis de HTML](#reto2)Análisis del HTML.</a></br>
-<a name="reto3"></a> - Reto 3: Modificación de texto.</br>
-<a name="reto4"></a> - Reto 4: Cambio en el CSS.</br>
+- Reto 1: [Selección de elemento.](#reto1)</br>
+- Reto 2: [Analisis de HTML.](#reto2)</br>
+- Reto 3: [Modificación de texto.](#reto3)</br>
+- Reto 4: [Cambio en el CSS.](#reto4)</br>
 
 [A link to that custom anchor](#resumen)
 
