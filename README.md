@@ -21,7 +21,7 @@ He seleccionado varios elementos de la página:
 
     ![Descripción de la imagen](images/Captura2_logo.jpg)
 
-[Volver a los retos](#resumen)
+  [Volver a los retos](#resumen)
 
 2. **<a name="reto2">Análisis del HTML:</a>**</br>
 He identificado las partes basica(etiquetas) del documento HTML: docType, html, head, header, body y footer.</br>
@@ -30,6 +30,15 @@ Dentro del header, las principales etiquetas son:
       ![Imagen_docType_html](images/Captura3_docType.jpg)
     - Html, etiqueta principal que contiene a todas.
       ![Imagen_etiqueta_html](images/Captura4_html.jpg)
-  
+    - head define el espacio para los metadatos de la página web. Principales elementos del head:</br>
+      `<title>`: Título del documento.</br>
+      `<meta>`: Metadatos (descripción, palabras clave, autor, configuración de la ventana gráfica, etc.).</br>
+      `<link>`: Enlaces a hojas de estilo CSS, iconos (favicon), y otros recursos relacionados.</br>
+      `<style>`: Estilos CSS en línea (generalmente menos recomendado que las hojas de estilo externas).</br>
+      `<script>`: Scripts JavaScript en línea o enlaces a archivos JavaScript externos.</br>
+      `<base>`: Especifica una URL base para todas las URL relativas en la página.</br>
+      `<noscript>`: Contenido alternativo para navegadores que tienen JavaScript deshabilitado.</br>
+      ![Descripción de la imagen](images/Captura5_etiqueta_head.jpg)
+      
 
 
