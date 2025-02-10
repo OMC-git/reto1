@@ -39,6 +39,6 @@ Dentro del header, las principales etiquetas son:
       `<base>`: Especifica una URL base para todas las URL relativas en la página.</br>
       `<noscript>`: Contenido alternativo para navegadores que tienen JavaScript deshabilitado.</br>
       ![Descripción de la imagen](images/Captura5_etiqueta_head.jpg)
-      
+    - Body es la parte visible de todo documento, lo que mostrara el navegador cuando acceda a la página web
 
 
