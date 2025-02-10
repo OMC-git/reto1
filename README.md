@@ -19,6 +19,7 @@ He seleccionado varios elementos de la página:
 He identificado las partes basica(etiquetas) del documento HTML: docType, html, head, header, body y footer.</br>
 Dentro del header, las principales etiquetas son:
     - DOCTYPE no es una etiqueta de html es una declaración del lenguaje y tiene que ir en la primera linea antes de la etiqueta `<HTML>`.
+      ![Imagen_docType_html](images/Captura1_titulo.JPG)
     - Html 
   
 
