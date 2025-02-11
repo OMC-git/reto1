@@ -3,14 +3,14 @@ Reto 1 del curso fundae para lenguajes de programación.</br>
 
 ``` Pruebas hechas con el navegador Edge, recorte de windows y paint ```
 
-<a name="resumen">Retos</a>:</br>
-- Reto 1: [Selección de elemento.](#reto1)</br>
-- Reto 2: [Analisis de HTML.](#reto2)</br>
-- Reto 3: [Modificación de texto.](#reto3)</br>
-- Reto 4: [Cambio en el CSS.](#reto4)</br>
+<a name="resumen">Retos</a>:  
+- Reto 1: [Selección de elemento.](#reto1)  
+- Reto 2: [Analisis de HTML.](#reto2)  
+- Reto 3: [Modificación de texto.](#reto3)  
+- Reto 4: [Cambio en el CSS.](#reto4)  
 
-1. **Selección de elemento.**</br>
-Se recomienda en el curso la página principal de wikipedia https://es.wikipedia.org/wiki/Wikipedia:Portada </br>
+1. **Selección de elemento.**  
+Se recomienda en el curso la página principal de wikipedia https://es.wikipedia.org/wiki/Wikipedia:Portada  
 He seleccionado varios elementos de la página:
 
 - Título
