@@ -50,5 +50,6 @@ He identificado las partes basica(etiquetas) del documento HTML: docType, html, 
  3. **<a name="reto3">Modificación de texto</a>**</br>
  3.1 Modificar el título de la página:
     ![Descripción de la imagen cambio titulo](images/Captura9_cambio_titulo.jpg)
- 3.2 Modificar  
+ 3.2 Modificar texto de Bienvenida en el body
+    ![Descripción de la imagen cambio texto](images/Captura10_cambio_texto.jpg)
   [Volver a los retos](#resumen)
