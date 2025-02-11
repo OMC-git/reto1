@@ -9,7 +9,7 @@ Reto 1 del curso fundae para lenguajes de programación.</br>
 - Reto 3: [Modificación de texto.](#reto3)  
 - Reto 4: [Cambio en el CSS.](#reto4)  
 
-1. **Selección de elemento.**  
+1. **<a name="reto2">Selección de elemento.</a>**  
 Se recomienda en el curso la página principal de wikipedia https://es.wikipedia.org/wiki/Wikipedia:Portada  
 He seleccionado varios elementos de la página:
 
@@ -23,8 +23,8 @@ He seleccionado varios elementos de la página:
 
   [Volver a los retos](#resumen)
 
-2. **<a name="reto2">Análisis del HTML:</a>**</br>
-He identificado las partes basica(etiquetas) del documento HTML: docType, html, head, header, body y footer.</br>
+2. **<a name="reto2">Análisis del HTML:</a>**  
+He identificado las partes basica(etiquetas) del documento HTML: docType, html, head, header, body y footer.  
     - DOCTYPE no es una etiqueta de html es una declaración del lenguaje y tiene que ir en la primera linea antes de la etiqueta `<HTML>`.
       ![Imagen_docType_html](images/Captura3_docType.jpg)
     - Html, etiqueta principal que contiene a todas.
