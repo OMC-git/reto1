@@ -44,6 +44,8 @@ He identificado las partes basica(etiquetas) del documento HTML: docType, html, 
       ![Descripción de la imagen](images/Captura6_etiqueta_body.jpg)
     - Footer representa un pie de página que suelen contoner informaicón acerca del autor de la sección, datos de derechos de autor o enlaces a documentos relacionados.
       ![Descripción de la imagen etiqueta footer](images/Captura8_etiqueta_footer.jpg)
+
+  [Volver a los retos](#resumen)
     
  3. **<a name="reto3">Modificación de texto</a>**</br>
  
