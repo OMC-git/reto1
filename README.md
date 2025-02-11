@@ -9,7 +9,7 @@ Reto 1 del curso fundae para lenguajes de programación.</br>
 - Reto 3: [Modificación de texto.](#reto3)  
 - Reto 4: [Cambio en el CSS.](#reto4)  
 
-1. **<a name="reto2">Selección de elemento.</a>**  
+1. **<a name="reto1">Selección de elemento.</a>**  
 Se recomienda en el curso la página principal de wikipedia https://es.wikipedia.org/wiki/Wikipedia:Portada  
 He seleccionado varios elementos de la página:
 
