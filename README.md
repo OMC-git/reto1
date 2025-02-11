@@ -25,7 +25,6 @@ He seleccionado varios elementos de la página:
 
 2. **<a name="reto2">Análisis del HTML:</a>**</br>
 He identificado las partes basica(etiquetas) del documento HTML: docType, html, head, header, body y footer.</br>
-Dentro del header, las principales etiquetas son:
     - DOCTYPE no es una etiqueta de html es una declaración del lenguaje y tiene que ir en la primera linea antes de la etiqueta `<HTML>`.
       ![Imagen_docType_html](images/Captura3_docType.jpg)
     - Html, etiqueta principal que contiene a todas.
@@ -39,6 +38,12 @@ Dentro del header, las principales etiquetas son:
       `<base>`: Especifica una URL base para todas las URL relativas en la página.</br>
       `<noscript>`: Contenido alternativo para navegadores que tienen JavaScript deshabilitado.</br>
       ![Descripción de la imagen](images/Captura5_etiqueta_head.jpg)
+    - Header representa un grupo de ayudas introductorias o de navegación. Puede contener algunos elementos de encabezado, así como también un logo, un formulario de búsqueda, un nombre de autor y otros componentes.</br>
+      ![Descripción de la imagen etiqueta header](images/Captura7_etiqueta_header.jpg)
     - Body es la parte visible de todo documento, lo que mostrara el navegador cuando acceda a la página web
-
-
+      ![Descripción de la imagen](images/Captura6_etiqueta_body.jpg)
+    - Footer representa un pie de página que suelen contoner informaicón acerca del autor de la sección, datos de derechos de autor o enlaces a documentos relacionados.
+      ![Descripción de la imagen etiqueta footer](images/Captura8_etiqueta_footer.jpg)
+    
+ 3. **<a name="reto3">Modificación de texto</a>**</br>
+ 
